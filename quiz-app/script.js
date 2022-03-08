@@ -95,6 +95,5 @@ sumbitBtn.addEventListener("click", () => {
                 <button onclick="location.reload()">Reload</button>
                 `
             }
-            }
-             
+            }   
     })
