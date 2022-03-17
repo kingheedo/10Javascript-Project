@@ -62,7 +62,6 @@ function loadQuize() {
 function answerSelect(){
 
     let answer = undefined;
-
     answerArray.forEach(answerEl => {
         if(answerEl.checked){
            answer =  answerEl.id
